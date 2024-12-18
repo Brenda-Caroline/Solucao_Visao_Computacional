@@ -5,7 +5,8 @@ Os códigos foram feitos no google colab. Consistem em 3 arquivos: um arquivo pa
 
 Foram disponibilizados os arquivos nas extensões .py e .ipynb
 
-Para este trabalho, não foi treinado nenhum modelo. Utilizou-se modelos pré-treinados para a realização deste. 
+Para este trabalho, não foi treinado nenhum modelo. Utilizou-se modelos pré-treinados para a realização deste.
+
 Para a estimativa de pose, utilizou-se o modelo de pose extra-large do yolo11. A ultralytics tem um GitHub onde disponibiliza seu conteúdo: https://github.com/ultralytics/ultralytics. 
 No link possui os modelos da ultralytics: https://github.com/ultralytics/ultralytics/tree/main/ultralytics/models e nesse link está disponível os arquivos .yaml de cada tarefa do yolo11. 
 Além disso, no site da ultralytics: https://docs.ultralytics.com/pt/tasks/pose/#models possui os modelo em pytorch (extensão .py) com os pesos do modelo para baixar.
